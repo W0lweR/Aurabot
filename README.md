@@ -13,7 +13,7 @@
 - BotAPI (https://www.spigotmc.org/resources/botapi.51808/) [LINK ON SPIGOT IS BROKEN! Use BotAPI 1.0 https://www.mediafire.com/file/2fdwawimu3gr9pa/BotAPI.jar/file]
 
 
-##3 Usage
+### Usage
 
 > /aurabot < player >
 

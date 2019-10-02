@@ -1,0 +1,2 @@
+# Aurabot
+Anti Killaura plugin.

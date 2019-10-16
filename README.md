@@ -1,4 +1,4 @@
-# AuraBot Killaura Detection
+# AuraBot Killaura Detection (SRC SOON)
 
 
 ![](https://img.shields.io/badge/Version-1.0-blue)
